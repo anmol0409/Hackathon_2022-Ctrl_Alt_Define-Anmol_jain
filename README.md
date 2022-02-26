@@ -2,6 +2,17 @@
 
 A new Flutter project.
 
+
+Team Name- Ctrl Alt Define
+Team Captain’s Name - Anmol Jain 
+Team Member’s Name - Tirth Patel
+                     Sahil Agarwal 
+                     Jyotsna Bhatia 
+
+
+EOI form link - (https://www.cloudcounselage.com/iac/?utm_source=CtrlAltDefine&utm_medium=hackathon_2022&utm_campaign=CloudCounselage)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
